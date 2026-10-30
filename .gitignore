@@ -1,0 +1,6 @@
+backend/.env
+backend/secure-connect-*.zip
+backend/.venv/
+frontend/node_modules/
+__pycache__/
+*.pyc
